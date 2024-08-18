@@ -1,0 +1,30 @@
+
+[
+    {
+        "title":"OS computer abbreviation usually means ?",
+        "options":["Order of Significance", "Open Software", "Operating System", "None of these"],
+        "correctOptionIndex":"1"
+    },
+    {
+        "title":"Most modern TV's draw power even if turned off. The circuit the power is used in does",
+        "options":["Sound", "Remote control", "Color balance", "High voltage"],
+        "correctOptionIndex":"1"
+    },
+    {
+        "title":"computer need how much ram to start on win10 ?",
+        "options":["512GB", "1GB", "2GB", "4GB"],
+        "correctOptionIndex":"1"
+    },
+    {
+        "title":" computer need how much vram ?",
+        "options":["512GB", "1GB", "2GB", "4GB"],
+        "correctOptionIndex":"1"
+    },
+    {
+        "title":" computer need how much vram ?",
+        "options":["512GB", "1GB", "2GB", "4GB"],
+        "correctOptionIndex":"1"
+    }
+ 
+    
+]
